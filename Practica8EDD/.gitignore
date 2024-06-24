@@ -1,0 +1,11 @@
+*.class
+*.jar
+*~
+.DS*
+._*
+target
+.classpath
+.project
+.settings/
+*.orig
+*.rej
